@@ -10,15 +10,17 @@ body {
 
 h1 {
 	margin-top: 0;
-	margin-bottom: 20px;
+	margin-bottom: 50px;
 }
 
 
 div.section{
-	background-color: #d1d1d1;
-	padding: 1px 10px;
-	margin-bottom: 30px;
+	padding: 2px 10px;
+	margin-bottom: 40px;
+	background-color: #ffff99;
+
 }
 #top {
 	position: absolute;
+
 }
